@@ -1,4 +1,4 @@
-
+package wsVideoStore;
 public class Rental
 {
   private Movie movie;
