@@ -1,5 +1,4 @@
-# **NOMBRE:**_____________________________________
-
+# **NOMBRE:**<ins>Ernesto Ramos Lopez </ins>
 # **Ejercicio-Comprensión de Programas**
 **VideoStore** es una App Java desarrollada para gestionar el Punto de Venta de una tienda de renta de Videos.
 
